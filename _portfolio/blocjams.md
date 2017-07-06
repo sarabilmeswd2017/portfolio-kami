@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc-Jams
-thumbnail-path: "img/bloc-jams-bg.jpg"
+thumbnail-path: "img/bloc_jams_bg.jpg"
 short-description: Bloc-Jams is an itunes replica for listening and searching through albums and music.
 
 ---
@@ -15,7 +15,7 @@ Bloc-Jams is a music playing site, with complete integration of DOM scripting. T
 
 ## Problem
 
-Problems to tackle in building Bloc-Jams: 
+Problems to tackle in building Bloc-Jams:
 When a song is played, that is the only song that can play.
 When a song is paused/played the different icons change to pause or play buttons.
 Integrating the player bar to play/pause and to use the next and previous buttons.
@@ -31,7 +31,7 @@ A lot of code...hmm how do I write this...
 
 ## Results
 
-I did not yet test this. 
+I did not yet test this.
 
 ## Conclusion
 
