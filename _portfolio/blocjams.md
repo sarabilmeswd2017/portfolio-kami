@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Bloc-Jams
-thumbnail-path: "img/bloc_jams_bg.jpg"
+thumbnail-path: "img/bloc-jams.png"
 short-description: Bloc-Jams is an itunes replica for listening and searching through albums and music.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/bloc-jams.png)
 
 ## Explanation
 
