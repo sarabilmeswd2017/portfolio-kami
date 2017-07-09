@@ -4,8 +4,9 @@ layout: default
 
 <div class="home">
 
-  <div class="work">
-    <h2>My Work</h2>
+  <h2>My Work</h2>
+  <div class="devwork">
+
     {% for project in site.portfolio limit:3 %}
     <div class="project">
       <div class="project-thumb">
@@ -19,6 +20,9 @@ layout: default
       </div>
     </div>
     {% endfor %}
+  </div>
+  <div class="designwork">
+    {% for project in site.portfolio limit:3 %}
   </div>
 
   <div class="posts">
